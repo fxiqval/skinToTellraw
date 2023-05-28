@@ -5,5 +5,9 @@
     "axios": "^1.4.0",
     "pngjs": "^7.0.0",
     "undici": "^5.22.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-tesseract": "^0.3.0"
   }
 }
